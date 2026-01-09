@@ -4,15 +4,24 @@
 - [About](#about)
 - [Purpose of the Platform](#purpose-of-the-platform)
 - [Flow of the Platform](#flow-of-the-platform)
-  - [Planning](##planning)
-  - [Order](##order)
-  - [Distribution](##distribution)
-  - [Disposal](##disposal)
+  - [Planning](#planning)
+  - [Order](#order)
+  - [Distribution](#distribution)
+  - [Disposal](#disposal)
 - [Target Audience](#target-audience)
+  - [Who is it for?](#who-is-it-for-?)
+  - [What does it do?](#what-does-it-do-?)
+  - [Why use it?](#why-use-it-?)
 - [Service](#service)
 - [Platform Availability](#platform-availability)
+  - [Web Platform](#web-platform)
+  - [Mobile Platform](#mobile-platform)
 - [Accessing the Platform](#accessing-the-platform)
+  - [Minimum System Requirements](#minimum-system-requirements)
+  - [Logging In](#logging-in)
 - [Navigating the Platform](#navigating-the-platform)
+  - [Web Platform](#web-platform)
+  - [Mobile Platform](#mobile-platform)
 - [Documentation Overview](#document-overview)
 - [Next Step](#next-step)
   
@@ -306,6 +315,21 @@ navigating the various aspects of the platform.
 - SMILE Cloud Infrastructure
 - Data Streaming Mechanism
 - Deployment and Installation Guide
+
+---
+
+## Using Core Feature
+### How to View Stock on an Entity
+![View Stock](docs/images/View-Stock.png)
+
+To perform this feature, follow these steps:
+1. Log in to the SMILE system;
+2. Select the desired Program;
+3. Navigate to the **Analysis** menu - this will display the **Analysis** sub menu list;
+4. Click the **Inventory** sub menu - this will display the Inventory List;
+5. Click **Stock Detail** – this will display **Stock List**;
+6. Apply the desired filter(s) –  this will filter the stock material list with applied filters;
+7. Click **Search** –  this will display a list of stock material with the applied filters.
 
 ---
 
