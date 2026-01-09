@@ -23,6 +23,10 @@
   - [Web Platform](#web-platform)
   - [Mobile Platform](#mobile-platform)
 - [Documentation Overview](#document-overview)
+- [Using Core Feature](#using-core-feature)
+  - [View Stock](#how-to-view-stock-on-an-entity)
+  - [Order](#order)
+  - [Distribution](#distribution)
 - [Next Step](#next-step)
   
 ---
@@ -330,6 +334,70 @@ To perform this feature, follow these steps:
 5. Click **Stock Detail** – this will display **Stock List**;
 6. Apply the desired filter(s) –  this will filter the stock material list with applied filters;
 7. Click **Search** –  this will display a list of stock material with the applied filters.
+
+### How to View the Order List and Create Order
+![List Order](docs/images/List-Order.png)
+To perform this feature, follow these steps:
+1. Log in to the SMILE system;
+2. Select the desired Program with a hierarchical material configuration;
+3. Navigate to the Order menu;
+4. Click the Order submenu – this will display the list of Order Management features;
+5. Click the Order – this will redirect you to Order List page and displays the list of order on selected program;
+6. Apply the desired filters –  this will configure the filter to be applied to the Order List;
+7. Click Search – this will display all order lists with the applied filters;
+8. To view the detailed information about the order process status, click Detail on the desired order;
+9. To create new order, click +Create New and select the desired order type.
+10. Click Order - this will redirect user to Create New Order page;
+![New Order](docs/images/New-Order.png)
+11. Fills in the Entity Name in Receiver field - this will display a list of entities for which will request the order.
+12. Fills in the Entity Name in Sender field - this will display a list of entities that will fulfill the order;
+13. Fills in the Activity field - this will display a list of active activity on the selected entity;
+14. Fills in the Required Date field - this will display this will display date when order is required to be fulfilled;
+15. Fills in the Comment field - this will display a free text field to additional information to related user such as selected Sender.
+![Order Detail](docs/images/Order-Detail.png)
+16. Select the desired material on the material section - the selected material will automatically added to Order Table.
+![Material Order Detail](docs/images/Material-Order-Detail.png)
+![Order Table](docs/images/Order-Table.png)
+18. Fill in the Quantity field in the order table - this will display the recommended quantity of material on selected material;
+19. Clicks Reason - this will display several reasons of the order.
+20. Clicks Send button - this will display a pop-up confirmation;
+![Order](docs/images/Order.png)
+21. Clicks Yes button on pop-up confirmation - this will create new order.
+![Confirm Order](docs/images/Confirm-Order.png)
+
+
+### How to View the Order List and Create Distribution
+![List Order](docs/images/List-Order.png)
+To perform this feature, follow these steps:
+1. Log in to the SMILE system;
+2. Select the desired Program with a hierarchical material configuration;
+3. Navigate to the Order menu;
+4. Click the Order submenu – this will display the list of Order Management features;
+5. Click the Order – this will redirect you to Order List page and displays the list of order on selected program;
+6. Apply the desired filters –  this will configure the filter to be applied to the Order List;
+7. Click Search – this will display all order lists with the applied filters;
+8. To view the detailed information about the order process status, click Detail on the desired order;
+9. To create new order, click +Create New and select the desired order type.
+10. Clicks Distribution - this will redirect you to Create New Distribution page;
+![New Distribution](docs/images/New-Distribution.png)
+11. Fills in the Entity Name in Sender field - this will display a list of entities that will distribute the material
+12. Fills in the Activity field - this will display a list of active activity on the selected entity.
+13. Fills in the Entity Name in Receiver field - this will display a list of entities that will receive distribution order
+14. Fills in the Required Date field - this will display date when order is required to be fulfilled.
+15. Fills in the Comment field - this will display a free text field to additional information to related user such as selected Receiver.
+![Distribution Detail](docs/images/Distribution-Detail.png)
+16. Select the desired material on the material section - the selected material will automatically added to Distribution Table.
+![Material Distribution Detail](docs/images/Material-Distribution-Detail.png)
+17. Click +Batch Quantity in Quantity field - this will display pop-up Batch List of selected material.
+![Distribution Order](docs/images/Distribution-Order.png)
+image-20260108-075233.png
+18. Fill in the Quantity field in the pop-up Batch List.
+19. Click Save.
+![Quantity](docs/images/Quantity.png)
+20. Clicks Save button - this will display a pop-up confirmation;
+![Distribution](docs/images/Distirbution.png)
+21. Clicks Yes button on pop-up confirmation - this will create new order.
+![Confirm Distribtuion](docs/images/Confirm-Distribution.png)
 
 ---
 
