@@ -336,7 +336,7 @@ To perform this feature, follow these steps:
 7. Click **Search** –  this will display a list of stock material with the applied filters.
 
 ### How to View the Order List and Create Order
-![List Order](docs/images/List-Order.png)
+![List Order](docs/images/List-Order.webp)
 To perform this feature, follow these steps:
 1. Log in to the SMILE system;
 2. Select the desired Program with a hierarchical material configuration;
@@ -348,26 +348,26 @@ To perform this feature, follow these steps:
 8. To view the detailed information about the order process status, click Detail on the desired order;
 9. To create new order, click +Create New and select the desired order type.
 10. Click Order - this will redirect user to Create New Order page;
-![New Order](docs/images/New-Order.png)
+![New Order](docs/images/New-Order.webp)
 11. Fills in the Entity Name in Receiver field - this will display a list of entities for which will request the order.
 12. Fills in the Entity Name in Sender field - this will display a list of entities that will fulfill the order;
 13. Fills in the Activity field - this will display a list of active activity on the selected entity;
 14. Fills in the Required Date field - this will display this will display date when order is required to be fulfilled;
 15. Fills in the Comment field - this will display a free text field to additional information to related user such as selected Sender.
-![Order Detail](docs/images/Order-Detail.png)
+![Order Detail](docs/images/Order-Detail.webp)
 16. Select the desired material on the material section - the selected material will automatically added to Order Table.
-![Material Order Detail](docs/images/Material-Order-Detail.png)
-![Order Table](docs/images/Order-Table.png)
+![Material Order Detail](docs/images/Material-Order-Detail.webp)
+![Order Table](docs/images/Order-Table.webp)
 18. Fill in the Quantity field in the order table - this will display the recommended quantity of material on selected material;
 19. Clicks Reason - this will display several reasons of the order.
 20. Clicks Send button - this will display a pop-up confirmation;
-![Order](docs/images/Order.png)
+![Order](docs/images/Order.webp)
 21. Clicks Yes button on pop-up confirmation - this will create new order.
-![Confirm Order](docs/images/Confirm-Order.png)
+![Confirm Order](docs/images/Confirm-Order.webp)
 
 
 ### How to View the Order List and Create Distribution
-![List Order](docs/images/List-Order.png)
+![List Order](docs/images/List-Order.webp)
 To perform this feature, follow these steps:
 1. Log in to the SMILE system;
 2. Select the desired Program with a hierarchical material configuration;
@@ -379,25 +379,24 @@ To perform this feature, follow these steps:
 8. To view the detailed information about the order process status, click Detail on the desired order;
 9. To create new order, click +Create New and select the desired order type.
 10. Clicks Distribution - this will redirect you to Create New Distribution page;
-![New Distribution](docs/images/New-Distribution.png)
+![New Distribution](docs/images/New-Distribution.webp)
 11. Fills in the Entity Name in Sender field - this will display a list of entities that will distribute the material
 12. Fills in the Activity field - this will display a list of active activity on the selected entity.
 13. Fills in the Entity Name in Receiver field - this will display a list of entities that will receive distribution order
 14. Fills in the Required Date field - this will display date when order is required to be fulfilled.
 15. Fills in the Comment field - this will display a free text field to additional information to related user such as selected Receiver.
-![Distribution Detail](docs/images/Distribution-Detail.png)
+![Distribution Detail](docs/images/Distribution-Detail.webp)
 16. Select the desired material on the material section - the selected material will automatically added to Distribution Table.
-![Material Distribution Detail](docs/images/Material-Distribution-Detail.png)
+![Material Distribution Detail](docs/images/Material-Distribution-Detail.webp)
 17. Click +Batch Quantity in Quantity field - this will display pop-up Batch List of selected material.
-![Distribution Order](docs/images/Distribution-Order.png)
-image-20260108-075233.png
+![Distribution Order](docs/images/Distribution-Order.webp)
 18. Fill in the Quantity field in the pop-up Batch List.
 19. Click Save.
-![Quantity](docs/images/Quantity.png)
+![Quantity](docs/images/Quantity.webp)
 20. Clicks Save button - this will display a pop-up confirmation;
-![Distribution](docs/images/Distirbution.png)
+![Distribution](docs/images/Distirbution.webp)
 21. Clicks Yes button on pop-up confirmation - this will create new order.
-![Confirm Distribtuion](docs/images/Confirm-Distribution.png)
+![Confirm Distribtuion](docs/images/Confirm-Distribution.webp)
 
 ---
 
