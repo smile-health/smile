@@ -4,6 +4,10 @@
 - [About](#about)
 - [Purpose of the Platform](#purpose-of-the-platform)
 - [Flow of the Platform](#flow-of-the-platform)
+  - [Planning](##planning)
+  - [Order](##order)
+  - [Distribution](##distribution)
+  - [Disposal](##disposal)
 - [Target Audience](#target-audience)
 - [Service](#service)
 - [Platform Availability](#platform-availability)
@@ -145,6 +149,7 @@ The benefits of SMILE include the following:
 
 ## Service
 | **Service** | **Description** |
+|------|------------------------|
 | **Inventory** | Monitor stock levels, update product availability, and track supply chain logistics. |
 | **Order** | Track and create stock movements by requesting or distributing it to other entity. |
 | **Transaction** | Manage and record all stock movements while ensuring accurate inventory updates. |
@@ -266,6 +271,7 @@ On top of the screen, you will see the Navbar, which provides quick access to:
    and other actions, iconed with current profile’s initial full name.
 3. User’s Entity Information: Information about the current user’s profile associated entity;
 ![Navbar Mobile](docs/images/Mobile-Navbar.png)
+
 On bottom of the screen, you will see the Navbar, which provides quick access to:
 1. Asset Management: Manage the assets owned by entities in the application to ensure stock quality and capacity are well monitored.
 
