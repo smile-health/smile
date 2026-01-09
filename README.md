@@ -25,8 +25,10 @@
 - [Documentation Overview](#document-overview)
 - [Using Core Feature](#using-core-feature)
   - [View Stock](#how-to-view-stock-on-an-entity)
-  - [Order](#order)
-  - [Distribution](#distribution)
+  - [Order](#how-to-view-the-order-list-and-create-order)
+  - [Distribution](#how-to-view-the-order-list-and-create-distribution)
+  - [Discard](#how-to-view-the-transaction-list-and-create-discard-transaction)
+  - [Last Mile](#how-to-view-the-transaction-list-and-create-last-mile-transaction)
 - [Next Step](#next-step)
   
 ---
@@ -394,9 +396,58 @@ To perform this feature, follow these steps:
 19. Click Save.
 ![Quantity](docs/images/Quantity.webp)
 20. Clicks Save button - this will display a pop-up confirmation;
-![Distribution](docs/images/Distirbution.webp)
+![Distribution](docs/images/Distribution.webp)
 21. Clicks Yes button on pop-up confirmation - this will create new order.
 ![Confirm Distribtuion](docs/images/Confirm-Distribution.webp)
+
+### How to View the Transaction List and Create Discard Transaction
+![List Transaction](docs/images/List-Transaction.png)
+To perform this feature, follow these steps:
+1. Log in to the SMILE system;
+2. Select the desired Program with a hierarchical material configuration;
+3. Navigate to the Transaction menu;
+4. Click the Transaction List submenu this will redirect you to Transaction List page and displays the list of transaction on selected program;
+5. Apply the desired filters –  this will configure the filter to be applied to the Transaction List;
+6. Click Search – this will display all order lists with the applied filters;
+7. To view the detailed information about the transaction, click Detail on the desired transaction;
+8. To create new transaction, click +Create New Transaction and select the desired transaction type.
+9. Clicks Discard Transaction - this will redirect you to Create Discard Transaction;
+![New Discard](docs/images/New-Discard.png)
+10. Fill in the required fields
+11. Click on the desired material – this will add the material to Transaction Table;
+![Discard Detail](docs/images/Discard-Detail.png)
+![Discard Transaction Table](docs/images/Discard-Transaction-Table.png)
+12. Clicks +Batch or +Detail on the desired material –  this will display pop up menu contains material details;
+13. Fill in the required fields
+![Batch List](docs/images/Batch-List.png)
+14. Clicks Send - this will create new transaction.
+![Discard](docs/images/Batch-List.png)
+
+### How to View the Transaction List and Create Last Mile Transaction
+![List Transaction](docs/images/List-Transaction.png)
+To perform this feature, follow these steps:
+1. Log in to the SMILE system;
+2. Select the desired Program with a hierarchical material configuration;
+3. Navigate to the Transaction menu;
+4. Click the Transaction List submenu this will redirect you to Transaction List page and displays the list of transaction on selected program;
+5. Apply the desired filters –  this will configure the filter to be applied to the Transaction List;
+6. Click Search – this will display all order lists with the applied filters;
+7. To view the detailed information about the transaction, click Detail on the desired transaction;
+8. To create new transaction, click +Create New Transaction and select the desired transaction type.
+9. Clicks Last Mile - this will redirect you to Create Last Mile Transaction;
+![New Last Mile](docs/images/New-LastMile.png)
+10. Fill in the required fields
+11. Click on the desired material – this will add the material to Transaction Table;
+![Last Mile Detail](docs/images/Last-Mile-Detail.png)
+![Last Mile Transaction](docs/images/Last-Mile-Transaction-Table.png)
+12. Clicks +Batch or +Detail on the desired material –  this will display pop up menu contains material details;
+![Last Mile Transaction](docs/images/Last-Mile-Transaction-Table.png)
+13. Fill in the required fields.
+14. Click Save.
+![Batch List](docs/images/Batch-List-Last-Mile.png)
+![Detail List](docs/images/Detail-List.png)
+15. Clicks Send - this will create new transaction.
+![Last Mile](docs/images/Last-Mile.png)
 
 ---
 
