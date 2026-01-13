@@ -451,6 +451,16 @@ To perform this feature, follow these steps:
 
 ---
 
+## Digital Public Good (DPG)
+
+SMILE is developed as a Digital Public Good in alignment with the DPG Standard. It contributes to Sustainable Development Goals by strengthening public health supply chains, improving data-driven decision-making, and supporting equitable access to essential health services.
+
+The project is:
+- Open-source
+- Platform-independent
+- Designed with privacy, security, and do-no-harm principles
+
+
 ## Next Steps
 - Explore the SMILE Knowledge Base to maximize your platform's potential;
 - Go over each SMILE Services for in-depth instructions;
