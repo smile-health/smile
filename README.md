@@ -131,7 +131,7 @@ SMILE tracks the amount of logistics and vaccines used, relocated, and those tha
 
 ### Disposal
 ![Flow of Disposal](docs/images/Flow-Disposal-SMILE.jpg)
-![WMS Flow](docs/images/WMS-Flow.jpg)
+![WMS Flow](docs/images/WMS-Flow.png)
 The **Flow of Disposal** begins with the Ministry of Health of the Republic of Indonesia issuing a **distribution order to manufacturers and distributors**. 
 Upon receiving the order, manufacturers and distributors distribute medicines, vaccines, and other health logistics as instructed, while recording 
 material data based on the DIN system, which is integrated into the SMILE system.
