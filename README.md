@@ -1,5 +1,7 @@
 # Getting Started Guide
 
+> ℹ️ Last updated: 14 Jan 2026
+
 ## Table of Contents
 - [About](#about)
 - [Purpose of the Platform](#purpose-of-the-platform)
@@ -129,6 +131,7 @@ SMILE tracks the amount of logistics and vaccines used, relocated, and those tha
 
 ### Disposal
 ![Flow of Disposal](docs/images/Flow-Disposal-SMILE.jpg)
+![WMS Flow](docs/images/WMS-Flow.jpg)
 The **Flow of Disposal** begins with the Ministry of Health of the Republic of Indonesia issuing a **distribution order to manufacturers and distributors**. 
 Upon receiving the order, manufacturers and distributors distribute medicines, vaccines, and other health logistics as instructed, while recording 
 material data based on the DIN system, which is integrated into the SMILE system.
@@ -140,6 +143,14 @@ SMILE Distribution Data.
 Once the items reach health facilities, **documenting is carried out for medicines, vaccines, and logistics that cannot be used**. The recorded 
 information includes quantity, batch number, and expiration date. This data is then entered into the SMILE system to ensure transparency. 
 The SMILE system also records items that cannot be used and have been handed over to a third party for disposal.
+
+The delivery of disposal to the receiver entity is carried out through **integration with the Waste Management System (WMS)**. The receiving entity begins the waste management process by printing, sticking and distributing QR code labels to the waste, followed by segregation according to category. After that, the move waste to waste temporary storage is collected based on its category, then weighed and deciding the next step. Subsequently, the waste is placed in hazardous waste temporary storage or cold storage. There are three types of waste management or disposal processes: **Waste is transported immediately**, **Internal waste treatment using an incinerator**, and I**nternal waste treatment using an autoclave**.
+
+The **Waste is transported immediately**, the process involves loading, recap of results, and manifest filling from waste temporary storage or cold storage by a third party (Transporter). The waste is then transported, treatment and through disposal landfilling or recycle.
+
+The **Internal waste treatment using an incinerator**, the waste is incinerated, and the resulting is placed in a QR-coded residue bag, weighed waste residues, and stored in waste temporary storage for residual waste. The third party (Transporter) then processes the waste from waste temporary storage by loading, recap of results, and manifest filling. Finally, the waste is transported and disposed of through landfilling.
+
+The **Internal waste treatment using an autoclave**, the waste is treated using autoclaved, chlorinated, or microwaved. After treatment, the waste is placed in a QR-coded non-hazardous waste bag, weighed non-hazardous waste bag, and stored in non-hazardous waste temporary storage. The third party (Beneficiary Transporter) then processes the waste from non-hazardous waste temporary storage by loading, recap of results, and manifest filling. Finally, the waste is transported and recycled by an authorized recycler.
 
 ---
 
