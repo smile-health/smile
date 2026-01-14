@@ -30,6 +30,7 @@
   - [Discard](#how-to-view-the-transaction-list-and-create-discard-transaction)
   - [Last Mile](#how-to-view-the-transaction-list-and-create-last-mile-transaction)
 - [Next Step](#next-step)
+- [SMILE Release](#smile-release)
   
 ---
 
@@ -486,5 +487,6 @@ The project is:
 - Stay updated with the latest enhancements in our Changelog.
 - If you would like to access the SMILE source code, please contact smilehealth.undp@gmail.com
 
-
+## SMILE Release
+[SMILE Release](https://github.com/smile-health/releases)
 
