@@ -80,8 +80,3 @@ SMILE strongly aligns with SDG 17 through multi-stakeholder collaboration and gl
 
 ![SMILE SDGs](docs/images/sdg-smile.png)
 
----
-
-## Summary
-
-SMILE contributes most directly to **SDG 3**, while also supporting **SDGs 5, 9, 12, 13, and 17** through strengthened health systems, digital public infrastructure, responsible resource management, environmental efficiency, and international collaboration.
