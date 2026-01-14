@@ -467,12 +467,5 @@ The project is:
 - Stay updated with the latest enhancements in our Changelog.
 - If you would like to access the SMILE source code, please contact smilehealth.undp@gmail.com
 
-## Digital Public Good (DPG)
 
-SMILE is developed as a Digital Public Good in alignment with the DPG Standard. It contributes to Sustainable Development Goals by strengthening public health supply chains, improving data-driven decision-making, and supporting equitable access to essential health services.
-
-The project is:
-- Open-source under an OSI-approved license
-- Designed to be deployable across multiple infrastructure environments
-- Developed with consideration for privacy, security, and do-no-harm principles
 
