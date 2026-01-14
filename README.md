@@ -55,6 +55,9 @@ SMILE delivers the following key capabilities:
 SMILE has now become a national health logistics management model with a positive impact not only on the health sector but also on the broader economy, improving efficiency, transparency, and accountability across multiple levels of government.
 
 ![What Is Smile](docs/images/smile-information-system.png)
+
+_If you would like to access the SMILE source code, please contact smilehealth.undp@gmail.com_
+
 ---
 
 ## Purpose of the Platform
@@ -75,6 +78,13 @@ to overstocking and stock-outs in storage facilities—SMILE supports evidence-b
 data freely to policymakers and decision-makers.
 
 ---
+
+## Sustainable Development Goals (SDG) Alignment
+
+SMILE contributes to multiple Sustainable Development Goals by strengthening national health logistics systems and digital public infrastructure.
+
+Detailed SDG alignment is available here:
+- [SDG Alignment – SMILE](SDG_ALIGNMENT.md)
 
 ## Flow The Platform
 This application’s have 4 main flow that support its use of the application for vaccine and medicine logistics. 
@@ -455,7 +465,7 @@ The project is:
 - Explore the SMILE Knowledge Base to maximize your platform's potential;
 - Go over each SMILE Services for in-depth instructions;
 - Stay updated with the latest enhancements in our Changelog.
-- Source code is available upon request under an approved open-source license. Point of contact: ketki.bhatia@undp.org and vidia@undp.org
+- If you would like to access the SMILE source code, please contact smilehealth.undp@gmail.com
 
 ## Digital Public Good (DPG)
 
