@@ -465,6 +465,7 @@ The project is:
 - Explore the SMILE Knowledge Base to maximize your platform's potential;
 - Go over each SMILE Services for in-depth instructions;
 - Stay updated with the latest enhancements in our Changelog.
+- Source code is available upon request under an approved open-source license.
 
 ## Digital Public Good (DPG)
 
