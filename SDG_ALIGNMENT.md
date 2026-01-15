@@ -1,7 +1,7 @@
 # Sustainable Development Goals  Alignment – SMILE
 
 ## About 
-This document purpose to provide information about SMILE compliance to SDGs
+This document aims to provide information on SMILE’s compliance with the Sustainable Development Goals (SDGs).
 
 ## Overview
 
