@@ -34,7 +34,9 @@
   
 ---
 
-## Overview – Introduction to SMILE Health
+## Overview 
+
+### Introduction to SMILE Health
 
 The Electronic Health Inventory and Logistics Monitoring System (SMILE) was initially developed to support vaccine distribution and logistics for routine immunization programmes in Indonesia. As a digital solution, SMILE streamlines national health logistics systems to ensure the availability and equitable distribution of vaccines and medicines across the country.
 
