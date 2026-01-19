@@ -13,9 +13,9 @@ SMILE is designed to support national health programs by managing logistics, inv
 ## Legal and Regulatory Compliance
 
 SMILE is designed to comply with:
-- Applicable national data protection regulations
-- Relevant international data protection principles
-- Government policies on health data governance
+- Applicable national data protection regulations in Indonesia (ID: Undang-Undang Nomor 27 Tahun 2022 tentang Perlindungan Data Pribadi, EN: Law Number 27 of 2022 on Personal Data Protection)
+- Relevant international data protection principles (GDPR, WHO SMART Guideline)
+- Government policies on health data governance (ID: Permenkes No. 18 Tahun 2022 tentang Satu Data Kesehatan, EN: Minister of Health Regulation Number 18 of 2022 on One Health Data)
 
 ## Security Measures
 
