@@ -1,0 +1,12 @@
+[submodule "deployment"]
+	path = deployment
+	url = git@github.com:smile-health/deployment.git
+[submodule "mobile"]
+	path = mobile
+	url = git@github.com:smile-health/mobile.git
+[submodule "backend"]
+	path = backend
+	url = git@github.com:smile-health/backend.git
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:smile-health/frontend.git
